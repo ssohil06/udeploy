@@ -1,0 +1,3 @@
+FROM alpine:3.19
+
+ENV NODE_VERSION 22.6.0
